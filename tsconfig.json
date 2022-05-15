@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "../../XTP/form/Front-end/src/components"  ]
 }
